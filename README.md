@@ -60,10 +60,4 @@ Then click **Calculate Option Price**.
 - For valid no-arbitrage inputs, ensure `d < exp(r dt) < u` (holds automatically with CRR and positive volatility).
 - Use higher `N` for better accuracy, but note runtime and plot density increase.
 
-## 🧭 Additional files in this workspace
-
-- `bond_valuation.py`: bond pricing and duration.
-- `minimum_variance_hedge_ratio_5.py`: minimum-variance hedge ratio with live `yfinance` data.
-- `VaR.py`: value-at-risk utilities.
-
 ---
