@@ -5,8 +5,6 @@ This repository contains a Streamlit app that prices options using a Cox-Ross-Ru
 ## 🚀 What’s included
 
 - `binomial_trees.py`: Streamlit app for pricing call/put options under European and American styles.
-- `bond_valuation.py`, `minimum_variance_hedge_ratio_5.py`, `VaR.py`, `geometricbrownianmotion.py`, `gbm_fast.py`: additional derivatives analytics utilities.
-- `tests/`: unit tests for Value-at-Risk logic.
 
 ## 🔍 Quantitative Finance Theory
 
